@@ -2,6 +2,8 @@
 
 An automatic mask adder based on python-opencv and dlib.
 
+If you don't have a python environment or dlib module, you can run the release .exe file.
+
 You can input a photo and a mask image, and then it can automatically add masks on the faces in the photo.
 
 **NOTE: now the program(v0.1) is imcomplete. It is advised to use the `doge.JPG` for the mask, instead of other customized pictures**
